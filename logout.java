@@ -3,7 +3,7 @@ class Logout{
 	public Logout(){
 		user="";
 	}
-	public logoutFunction(){
+	public void logoutFunction(){
 		if(user.equals(""))
 			System.out.println("no logged in user");
 		user="";
