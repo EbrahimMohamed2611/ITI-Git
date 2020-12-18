@@ -1,2 +1,2 @@
 # ITI-Git
-![GITBALS ](GITBALS.png.png)
+![GITBALS ](GITBALS.png)
