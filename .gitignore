@@ -1,0 +1,6 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+#By Ebrahim Mohamed Ebrahim - Intake 41
+# compiled output
+*.txt
+*.class
+*.test
